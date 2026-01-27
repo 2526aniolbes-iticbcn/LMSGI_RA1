@@ -1,0 +1,28 @@
+{
+    "pokemon": [
+        {
+            "id": "p001",
+            "nom": "Bulbasaur",
+            "tipus": ["Planta","Veneno"],
+            "peso": "6.9kg",
+            "altura": "0.7m",
+            "estadistiques": {
+                "velocitat": 3,
+                "fortalesa": 3,
+                "precision": 4,
+                "resistencia": 4
+            },
+            "moviments": [
+                {
+                    "nom": "somnifero",
+                    "descripcio": "Somnífero duerme al objetivo. No afecta a Pokémon con la habilidad insomnio o espíritu vital.",
+                    "potencia": 15,
+                    "contacte": 18
+                }
+            ],
+            "imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/43/latest/20190406170624/Bulbasaur.png/300px-Bulbasaur.png"
+
+
+        }
+    ]
+}

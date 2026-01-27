@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<botiga nom="Informàtica Aniol" país="ES">
+    
+    <!-- Llistat d'articles de la botiga onlne -->
+    <articles>
+        <!-- Informació article -->
+        <article codi="A001">
+            <nom>Teclat mecànic</nom>
+            <descripcio>Teclat mecànic Keychron K3 MAX Inalámbrico Layout ES Retroiluminado Switch Gateron Red Perfil Bajo</descripcio>
+            <preu>99.99</preu>
+            <categoria>Periferics</categoria>
+            <disponibilitat>23</disponibilitat>
+            <imatge>https://thumb.pccomponentes.com/w-530-530/articles/1098/10986737/1401-teclado-keychron-k3-max-mecanico-inalambrico-layout-es-retroiluminado.jpg</imatge>
+        </article>
+        
+        <!-- Informació article -->
+        <article codi="A002">
+            <nom>Ratolí sense fil</nom>
+            <descripcio>Ratón Logitech MX Master 4 Inalámbrico RF + Bluetooth 8000 DPI Grafito 8 Botones Ergonomía</descripcio>
+            <preu>129.00</preu>
+            <categoria>Periferics</categoria>
+            <disponibilitat>8</disponibilitat>
+            <imatge>https://thumb.pccomponentes.com/w-530-530/articles/1096/10961973/1878-raton-logitech-mx-master-4-inalambrico-rf-bluetooth-8000-dpi-grafito-8-botones-ergonomia-6cfc681f-adb1-47c2-856e-477bd7123c83.jpg</imatge>
+        </article>
+
+        <!-- Informació article -->
+        <article codi="A003">
+            <nom>Memoria RAM</nom>
+            <descripcio>Memoria RAM Crucial Pro CP2K64G56C46U5 128GB 2x64GB DDR5 5600MHz CL46 Intel XMP AMD EXPO</descripcio>
+            <preu>1745.97</preu>
+            <categoria>Components</categoria>
+            <disponibilitat>0</disponibilitat>
+            <imatge>https://thumb.pccomponentes.com/w-530-530/articles/1095/10954674/184-memoria-ram-crucial-pro-cp2k64g56c46u5-128gb-2x64gb-ddr5-5600mhz-cl46-intel-xmp-amd-expo.jpg</imatge>
+        </article>
+    </articles>
+</botiga>
