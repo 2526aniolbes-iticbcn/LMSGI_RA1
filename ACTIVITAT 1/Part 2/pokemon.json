@@ -4,8 +4,8 @@
             "id": "p001",
             "nom": "Bulbasaur",
             "tipus": ["Planta","Veneno"],
-            "peso": "6.9kg",
-            "altura": "0.7m",
+            "peso": "6.9 kg",
+            "altura": "0.7 m",
             "estadistiques": {
                 "velocitat": 3,
                 "fortalesa": 3,
@@ -16,11 +16,46 @@
                 {
                     "nom": "somnifero",
                     "descripcio": "Somnífero duerme al objetivo. No afecta a Pokémon con la habilidad insomnio o espíritu vital.",
-                    "potencia": 15,
-                    "contacte": 18
+                    "potencia": null,
+                    "contacte": false
+                }
+            ],
+            "evolucions": [
+                {
+                    "id": "p002",
+                    "nivell": 16
                 }
             ],
             "imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/43/latest/20190406170624/Bulbasaur.png/300px-Bulbasaur.png"
+
+        },
+        {
+            "id": "p002",
+            "nom": "Charmander",
+            "tipus": ["Fuego"],
+            "peso": "8.5 kg",
+            "altura": "0.6 m",
+            "estadistiques": {
+                "velocitat": 3,
+                "fortalesa": 5,
+                "precision": 4,
+                "resistencia": 3
+            },
+            "moviments": [
+                {
+                    "nom": "dragoaliento",
+                    "descripcio": "Dragoaliento causa daño y tiene una probabilidad del 30% de paralizar al objetivo.",
+                    "potencia": 6,
+                    "contacte": false
+                }
+            ],
+            "evolucions": [
+                {
+                    "id": "p003",
+                    "nivell": 16
+                }
+            ],
+            "imatge": "https://images2.wikidexcdn.net/mwuploads/wikidex/thumb/5/56/latest/20200307023245/Charmander.png/300px-Charmander.png"
 
 
         }
